@@ -3,23 +3,25 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" type="text/css" href="./index.css" media="screen">
+	<link rel="icon" href="./favicon.png" type="image/png">
 	<title>Sanjana Kapisthalam</title>
 </head>
-<body>
+<body onload="last_modified()">
 	<em><font size="5"><strong>Sanjana Kapisthalam</strong></font></em>
 	<br>	
 	sck9196 <i>at</i> rit <i>dot</i> edu
 	<br><br>
 	<img src="./me.jpg">
 	&nbsp <a href="https://github.com/sanjanakapisthalam"><img src="./github.png"></a>
-		<br>
+	&nbsp <a href="https://www.linkedin.com/in/robertodessi11"><img src="./linkedin.png"></a>&nbsp <a href="https://twitter.com/robdessi"><img src="./twitter.png"></a> 
+	<br>
 	<hr />
 	
-	<!--  BIO -->
+	<!-- BIO -->
 	<p class="text">
 		I am an graduate student of Imaging Science at <a href="http://www.dis.uniroma1.it/en"> Rochester Institute of Technology </a>.
 		<br>
-		Here you can find my <a href="./resume.pdf">resume</a>.
+		Here you can find my <a href="./Roberto_Dessi_resume.pdf">resume</a>.
 	</p>
 
 	<hr />
@@ -29,7 +31,7 @@
 		<font size="6"><b>Education</b></font>
 	</p>
 	<p class="text">
-		<br> 
+		<img src="./rit.png"><br>
 		I am currently pursuing my second year master in Imaging Science  at  <a href="http://www.rit.edu/">Rochester Institute of Technolofy, New York.  
 	</p>
 	<p class="text">
@@ -44,10 +46,10 @@
 		<font size="6"><b>Experience</b></font>
 	</p>
 	<p class="text">
-		<img src="./xrce.png"><br>Six months internship as a research intern in the <a href="http://www.xrce.xerox.com/">CV (Computer Vision) group 
+		<img src="./xrce.png"><br>6 months internship as a research intern in the <a href="http://www.xrce.xerox.com/">WPT (Computer Vision) group 
 	</p>
 	<p class="text">
-		<img src="./ucil.png"><br>
+		<img src="./rit.png"><br>
 		Worked as Research Assistant for Dr. Elena Federovskaya.
 	</p>	
 	<p class="text">
@@ -62,12 +64,12 @@
 		<ul>
 			<li>
 				<font size="3"><b>Friends.</b></font>
-				Some amzing friends of mine:
+				Some great folks I had the pleasure to meet or work with:
 				<ul>
 					<li><a href="">Roberto Dessi</a></li>
 					<li><a href="">Suriya Singh</a></li>
 					<li><a href="">David Novotony</a></li>
-					<li><a href="">Mehreen Ikram</a></li>
+					<li><a href="">Mehreen Ikram</a>a></li>li>
 				</ul>
 			</li>
 			<li>
@@ -79,14 +81,38 @@
 				</ul>
 			</li>
 			<li>
-			<font size="3"><b>Things I love to do</b></font> 
-			<ul>
-				<li>
-					<a href="">Public speaking, Swimming, Cooking</a>
-				</li>
-			</ul>
+				<font size="3"><b>Books. </b></font>
+ 				<ul>
+	 				<li>
+	 					<a href="https://en.wikipedia.org/wiki/Of_Mice_and_Men">Last read</a>	
+	 				</li>
+	 				<li>
+		 				Currently reading:
+						<a href="https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"> Catcher in the rye</a> and
+						<a href="https://en.wikipedia.org/wiki/The_Aleph_(short_story_collection)">L'Aleph</a>	
+	 				</li>
+	 			</ul>
+ 			</li>
+			<li>
+				<font size="3"><b>Things I love to do</b></font> 
+				<ul>
+					<li>
+						<a href="">Public speaking, Swimming, Cooking</a>
+					</li>
+					<li>
+						<a href="http://www.imdb.com/title/tt0189584/">Last started</a>
+					</li>
+		</ul>
 	</p>
 	<br>
+	<br><br>
+	<i>Last updated: <p id="last_update"></p></i>
+	<script>
+		function last_modified() {
+	    	var x = new Date(document.lastModified);
+	    	document.getElementById("last_update").innerHTML = x;
+		}
+	</script>
 
 </body>
 </html>
