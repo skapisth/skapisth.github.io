@@ -11,7 +11,6 @@
 {% endif %}
 
   <div class="user-info">
-    <h3 itemprop="name">{{ author.name }}</h3>
     <p>{{ author.bio }}</p>
     {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
     {% if author.website %}<a href="{{ author.website }}" class="author-social" target="_blank"><i class="fa fa-fw fa-globe"></i> Website</a>{% endif %}
