@@ -5,7 +5,7 @@ title: Research
 
 I am working on many projects as part of my graduate school curriculum. Read below for detailed information about these projects.
 
-__Spatio-temporal dynamics of foveal visual search__
+#__Spatio-temporal dynamics of foveal visual search__
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
