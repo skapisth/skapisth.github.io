@@ -5,7 +5,7 @@ layout: resume
 
   
 
-## Currently
+## Fluxdata, Inc
 Graduate Student, University of Rochester
 
 ## Education
