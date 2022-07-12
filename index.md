@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I am a PhD student in the department of Brain and Cognitive Sciences at the university of Rochester, where I am advised by Dr. Martina Poletti. I am interested in understanding visual attentional mechanisms when multiple competing high-salient stimuli are presented during a task. More specifically, I am working on addressing the question "how do we selectively process the most relevant sensory information and optimally allocate our visual resources to relevant stimuli when there are distracting salient items in the visual field?". On the flip side of this, I am also interested in understanding vision and its deficits in patient population specifically, Schizophrenia.
+I am a PhD student in the department of Brain and Cognitive Sciences at the University of Rochester, where I am advised by Dr. Martina Poletti. I am interested in understanding visual attentional mechanisms when multiple competing high-salient stimuli are presented during a task. More specifically, I am working on addressing the question "how do we selectively process the most relevant sensory information and optimally allocate our visual resources to relevant stimuli when there are distracting salient items in the visual field?". On the flip side of this, I am also interested in understanding vision and its deficits in patient population specifically, Schizophrenia.
 
 ## Timeline news
 
@@ -13,9 +13,9 @@ I am a PhD student in the department of Brain and Cognitive Sciences at the univ
  __Aug 2020:__ Selected as a graduate student representative for the department.<br>
  __June 2020:__ Started graduate school at the University of Rochester.<br>
  __Sept 2018:__ Started working as Research Assistant at Active Perception Lab, University of Rochester.<br>
- __Aug 2018:__ Off to munich to present my work at VISART-IV, ECCV.<br>
+ __Aug 2018:__ Off to Munich to present my work at VISART-IV, ECCV.<br>
  __June 2018:__ Off for an internship with FluxData, Inc in Rochester.<br>
- __Jan 2018:__ Off for an internship with Amazon.com in Seattle.<br>
+ __Jan 2018:__ Off for an internship with Amazon in Seattle.<br>
  __Nov 2017:__ My abstract got selected for a poster presentation at Women in Machine learning Workshop (WiML), 2017, with a travel grant.<br>
  __May 2017:__ Started working part-time at Margaret's House (RIT's Day Care).<br>
  __Jan 2017:__ My paper with Dr. Fedorovskaya was accepted for publication in the proceedings of HVEI, 2017.<br>
