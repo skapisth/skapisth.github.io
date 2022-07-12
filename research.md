@@ -16,7 +16,7 @@ during fixation and upon saccade landing and how salient distractors effected th
 This project looks at how visual sensitivity changes over time in a covert peripheral discrimination task
 while there is a simultaneous complex foveal task at the center. This task was also designed and developed by me using c++. This is currently in pilot stage with data from 3 naive subjects. 
 
-## __Fixational eye movements (FEM) in patients with Scizophrenia and their contributions to abnormal vision__
+## __Fixational eye movements (FEMs) in patients with Schizophrenia and their contributions to abnormal vision__
 This project looks at FEMs in schizophrenia population and age matched controls. I am involved in data collection and data analysis on two already existing lab experiments. The aim of this project is to first understand if FEMs contribute to vision deficits in schizophrenia. Any link between FEMs and their vision deficits could potentially lead to bio markers that can be used to diagnose the disease onset and progression. We currently have very interesting preliminary results from 3 patients and 5 controls. Reach out to me via email if you want to learn more.
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
