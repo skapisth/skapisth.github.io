@@ -5,7 +5,7 @@ title: Research
 
 I am working on many projects as part of my graduate school curriculum. All of these projects use our laboratory's custom built digital dual-purkinje image eye-tracker. The outcome of these projects have wide range of applications from foveated rendering in virtual reality systems to treatment dignosis in patient populations. Read below for detailed information about these projects.
 
-### __Individual project__
+<h4> __Individual projects__ <\h4>
 
 ## __Spatio-temporal dynamics of foveal visual search__
 This project looked at how oculomotor behavior and performance changes in a foveal task in the presence of a salient distractor. I designed and developed the task using c++, collected data from 9 naive participants. Results suggest that both oculomotor behavior and performance are not impacted by saliency. We also found that if there is task-relevant non-salient distractor, oculomotor behavior is significantly impacted while performance is not. This work has been presented as a poster at VSS 2020 and ECVP 2021 and is currently in progress for a manuscript publication.
