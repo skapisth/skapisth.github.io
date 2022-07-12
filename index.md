@@ -20,7 +20,7 @@ I am a PhD student in the department of Brain and Cognitive Sciences at the univ
  __June 2016:__ Off to Europe for a six months internship at Xerox Research Center.<br>
  __April 2016:__ Partcipated and won all rounds of 3 Minute Thesis Competition including the people's choice award conducted by RIT between 8 schools on campus. And guess what I got? --> $750 Cash Prize :D.<br>
  __Jan 2016:__ Wuhoo! My first ever research job where I'll be earning. Dr. Elena Fedorovskaya hired me as her Research Assistant.<br>
- __Aug 2015:__ Moved to the States and started grad school at CIS, RIT!<br>
+ __Aug 2015:__ Moved to the States and started graduate school at Center for Imaging Science, RIT!<br>
 
 
   
