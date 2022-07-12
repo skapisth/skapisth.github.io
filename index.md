@@ -12,6 +12,7 @@ I am a PhD student in the department of Brain and Cognitive Sciences at the univ
  __Aug 2020:__ Selected as a graduate student representative for the department.<br>
  __June 2020:__ Started graduate school at the University of Rochester.<br>
  __Sept 2018:__ Started working as Research Assistant at Active Perception Lab, University of Rochester.<br>
+ __Aug 2018:__ Off to munich to present my work at VISART-IV, ECCV.
  __June 2018:__ Off for an internship with FluxData, Inc in Rochester.<br>
  __Jan 2018:__ Off for an internship with Amazon.com in Seattle.<br>
  __Nov 2017:__ My abstract got selected for a poster presentation at Women in Machine learning Workshop (WiML), 2017, with a travel grant.<br>
