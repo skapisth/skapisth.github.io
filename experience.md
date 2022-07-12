@@ -5,8 +5,6 @@ layout: resume
 
 Over the years of my academic career, I explored various options outside of school to learn how industry functions and what it is like to work in one. Below you'll find my experiences during all the internships I have done in various companies. 
 
-<p>
-    I would like to discuss more on my personal experiences as part of my three internships here. You can take a look at my C.V. to know more about my projects. 
     </p>
     <h4>Fluxdata Inc</h4>
     <p>
@@ -23,5 +21,5 @@ Over the years of my academic career, I explored various options outside of scho
     <p>
     <p><b>Bonjour!</b></p>
     This was my first time in Europe. Grenoble is a tiny city where you can see mountains everywhere. That broken French I learnt during my high school helped me get by my everyday life happily. This experience laid foundation for my love for research and gave me an opportunity to work with some amazing scientists. My internship here involved reproducing results from the <a href = "https://arxiv.org/pdf/1512.04412.pdf" target="_blank"> paper </a> which was the then state-of-the-art for instance-level semantic segmentation and investigate their failure modes. I also reproduced results from the <a href = "https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf" target="_blank"> paper </a> and changed their loss function to see how the results were effected. This was a challenging internship as it was a completely new environment and a beginning for me into computer vision. But I thoroughly enjoyed my work and learnt a lot of things that genuinely made me what I am today :).
-    </p>
+   
     
