@@ -1,4 +1,3 @@
-
 ---
 title: Personal
 layout: post-index
