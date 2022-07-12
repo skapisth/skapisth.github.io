@@ -13,8 +13,8 @@ I am a PhD student in the department of Brain and Cognitive Sciences at the univ
     <b>Jan 2017:</b> My paper with Dr. Fedorovskaya was accepted for publication in the proceedings of HVEI, 2017.
     <b><strong>June 2016:</b> Off to Europe for a six months internship at Xerox Research Center.
     <b>April 2016:</b> Partcipated and won all rounds of 3 Minute Thesis Competition including the people's choice award conducted by RIT between 8 schools on campus. And guess what I got? --> $750 Cash Prize :D 
-    <h4><b>Jan 2016:</b> Wuhoo! My first ever research job where I'll be earning. Dr. Elena Fedorovskaya hired me as her Research Assistant.</h4>
-      <b>Aug 2015:</strong> Moved to the States and started grad school at CIS, RIT! </h4>
+    <h4>__Jan 2016__: Wuhoo! My first ever research job where I'll be earning. Dr. Elena Fedorovskaya hired me as her Research Assistant.</h4>
+     <h4><b>Aug 2015:</b>Moved to the States and started grad school at CIS, RIT! </h4>
 
 
   
