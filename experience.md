@@ -8,7 +8,7 @@ Over the years of my academic career, I explored various options outside of scho
 <p>
     I would like to discuss more on my personal experiences as part of my three internships here. You can take a look at my C.V. to know more about my projects. 
     </p>
-    <h4>Fluxdata</h4>
+    <h4>Fluxdata Inc</h4>
     <p>
     Summer in Rochester is simply amazing. I bike 7 miles to work, along the beautiful bike lanes of Lehigh Valley Trail, Erie Canal and the Genessee River. 
     This is my first experience working for a start-up. I like it so far. I work along with some other amazing RIT and UoR interns. As part of this internship, I am learning to use TensorFlow. Here, I code on python and I am able to put my learnings of Object Oriented Programming from amazon effectively and I am happy about it. I am working on projects involving image segmentation, classification and regression problems.
