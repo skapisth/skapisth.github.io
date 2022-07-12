@@ -6,6 +6,7 @@ I am a PhD student in the department of Brain and Cognitive Sciences at the univ
 
 ## Timeline news
  __May 2022:__ I am awarded the Meliora mentor fellowship for the second time.<br>
+ __May 2022:__ Off to Florida to present at VSS, 2022.
  __Aug 2021:__ Joining UR women in neuroscience as a student lead organizer.<br>
  __May 2021:__ I am awarded the Meliora mentor fellowship where I'll be an over-arching mentor for 40 undergraduate students.<br>
  __Aug 2020:__ Selected as a graduate student representative for the department.<br>
