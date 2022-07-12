@@ -2,10 +2,7 @@
 title: Personal
 layout: post-index
 ---
-<p>
-Read this if you want to get to know me at a personal level. 
-</p>
-    
+
 ## __Wanderlust!__
 That so called "travel bug" bit me at a very young age. From India to the States to Europe, I made the most out of my opportunities. I used pretty much all my holidays to travel, explore cultures and cuisines. I have wandered around some wonderful countries around the world covering many cities. I made sure to get myself a toy that could help me in saving my memories somewhere apart from my brain. You can see me making memories  <a href = "https://www.flickr.com/photos/159618694@N08/albums" target="_blank"> here. </a>
     
