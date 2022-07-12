@@ -6,7 +6,7 @@ layout: post-index
 During my masters at RIT, I explored various options outside of school to learn how industry functions and what it is like to work in one. Below you'll find my experiences during all the internships I have done in various companies. 
 </p>
     
-## __Fluxdata Inc__
+## __Fluxdata,Inc.__
 Summer in Rochester is simply amazing. I bike 7 miles to work, along the beautiful bike lanes of Lehigh Valley Trail, Erie Canal and the Genessee River. This is my first experience working for a start-up. I like it so far. I work along with some other amazing RIT and UoR interns. As part of this internship, I am learning to use TensorFlow. Here, I code on python and I am able to put my learnings of Object Oriented Programming from amazon effectively and I am happy about it. I am working on projects involving image segmentation, classification and regression problems.
     
 ## __Amazon.com__
