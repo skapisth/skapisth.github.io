@@ -9,7 +9,7 @@ During my masters at RIT, I explored various options outside of school to learn 
 ## __Fluxdata,Inc.__
 Summer in Rochester is simply amazing. I bike 7 miles to work, along the beautiful bike lanes of Lehigh Valley Trail, Erie Canal and the Genessee River. This is my first experience working for a start-up. I like it so far. I work along with some other amazing RIT and UoR interns. As part of this internship, I am learning to use TensorFlow. Here, I code on python and I am able to put my learnings of Object Oriented Programming from amazon effectively and I am happy about it. I am working on projects involving image segmentation, classification and regression problems.
     
-## __Amazon.com__
+## __Amazon__
 I love rains and Seattle is beautiful! This was my first time ever to officially be a software developer. My project here was to build a framework that could make the lives of vendor managers easy. This project dealt with people who sold products to amazon which inturn were sold as amazon's products on their retail website. I was involved in both backend and frontend programming. During my time at amazon, I had to code on Java, learnt to work in a multi-threaded environment, write unit tests with "Mockito" and also learnt a bit about Perl. I must say my object oriented programming has improved a lot after working here. 
 
 ## __Xerox Research Center aka Naver Labs, Europe__
