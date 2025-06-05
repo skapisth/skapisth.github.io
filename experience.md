@@ -2,18 +2,31 @@
 title: Experience
 layout: post-index
 ---
-<p>
-During my masters at RIT, I explored various options outside of school to learn how industry functions and what it is like to work in one. Below you'll find my experiences during all the internships I have done in various companies. 
-</p>
-    
-## __Fluxdata,Inc.__
-Summer in Rochester is simply amazing. I bike 7 miles to work, along the beautiful bike lanes of Lehigh Valley Trail, Erie Canal and the Genessee River. This is my first experience working for a start-up. I like it so far. I work along with some other amazing RIT and UoR interns. As part of this internship, I am learning to use TensorFlow. Here, I code on python and I am able to put my learnings of Object Oriented Programming from amazon effectively and I am happy about it. I am working on projects involving image segmentation, classification and regression problems.
-    
-## __Amazon__
-I love rains and Seattle is beautiful! This was my first time ever to officially be a software developer. My project here was to build a framework that could make the lives of vendor managers easy. This project dealt with people who sold products to amazon which inturn were sold as amazon's products on their retail website. I was involved in both backend and frontend programming. During my time at amazon, I had to code on Java, learnt to work in a multi-threaded environment, write unit tests with "Mockito" and also learnt a bit about Perl. I must say my object oriented programming has improved a lot after working here. 
 
-## __Xerox Research Center aka Naver Labs, Europe__
-Bonjour!<br>
-This was my first time in Europe. Grenoble is a tiny city where you can see mountains everywhere. That broken French I learnt during my high school helped me get by my everyday life happily. This experience laid foundation for my love for research and gave me an opportunity to work with some amazing scientists. My internship here involved reproducing results from the [__paper__](https://arxiv.org/pdf/1512.04412.pdf) which was the then state-of-the-art for instance-level semantic segmentation and investigate their failure modes. I also reproduced results from the [__paper__](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) and changed their loss function to see how the results were effected. This was a challenging internship as it was a completely new environment and a beginning for me into computer vision. But I thoroughly enjoyed my work and learnt a lot of things that genuinely made me what I am today :).
+<p> During my master’s at RIT, I took the opportunity to explore the tech industry through internships, gaining hands-on experience and insight into how companies function in the real world. Below are some highlights from the internships I’ve completed across a variety of organizations. </p>
+FluxData, Inc.
+Rochester, NY – Summer Internship
+
+Summer in Rochester is beautiful, and I made the most of it by biking 7 miles to work along the scenic Lehigh Valley Trail, the Erie Canal, and the Genesee River. This was my first experience working at a startup, and I loved the collaborative energy. I worked alongside other enthusiastic interns from RIT and the University of Rochester.
+
+At FluxData, I focused on machine learning applications, gaining hands-on experience with TensorFlow and Python. I was especially excited to apply the Object-Oriented Programming skills I had developed at Amazon. My projects involved image segmentation, classification, and regression, and gave me a strong foundation in applied computer vision and data-driven modeling.
+
+Amazon
+Seattle, WA – Software Development Engineer Intern
+
+Seattle’s rainy charm won me over instantly—and so did working at Amazon! This was my first formal experience as a software developer, and I was entrusted with building a framework designed to support vendor managers. These are the folks who manage third-party sellers whose products are rebranded and sold under Amazon’s retail operations.
+
+I contributed to both front-end and back-end development, working in Java, exploring multi-threaded programming, and writing unit tests with Mockito. I also got a brief introduction to Perl. My time at Amazon significantly improved my Object-Oriented Programming skills and gave me confidence in large-scale, collaborative development environments.
+
+Xerox Research Center (now Naver Labs Europe)
+Grenoble, France – Research Internship
+
+Bonjour! This was my first time in Europe, and Grenoble, with its mountain views in every direction, was the perfect setting. My high school French helped me get by—and the experience planted the seed for my passion for research.
+
+At the lab, I worked on instance-level semantic segmentation, reproducing results from the then state-of-the-art [__paper__](https://arxiv.org/pdf/1512.04412.pdf) and analyzing its failure modes. I also replicated findings from this [__paper__](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf), modifying the loss function to observe its impact on performance.
+
+This was a challenging but rewarding experience that introduced me to computer vision in a serious way. It was my first exposure to academic-style research and marked a turning point in my journey—I genuinely loved the work and learned lessons that continue to shape who I am today.
+
+
 
     
