@@ -12,14 +12,14 @@ Summer in Rochester is beautiful, and I made the most of it by biking 7 miles to
 
 At FluxData, I focused on machine learning applications, gaining hands-on experience with TensorFlow and Python. I was especially excited to apply the Object-Oriented Programming skills I had developed at Amazon. My projects involved image segmentation, classification, and regression, and gave me a strong foundation in applied computer vision and data-driven modeling.
 
-Amazon
+## __Amazon__
 Seattle, WA – Software Development Engineer Intern
 
 Seattle’s rainy charm won me over instantly—and so did working at Amazon! This was my first formal experience as a software developer, and I was entrusted with building a framework designed to support vendor managers. These are the folks who manage third-party sellers whose products are rebranded and sold under Amazon’s retail operations.
 
 I contributed to both front-end and back-end development, working in Java, exploring multi-threaded programming, and writing unit tests with Mockito. I also got a brief introduction to Perl. My time at Amazon significantly improved my Object-Oriented Programming skills and gave me confidence in large-scale, collaborative development environments.
 
-Xerox Research Center (now Naver Labs Europe)
+## __Xerox Research Center (now Naver Labs Europe)__
 Grenoble, France – Research Internship
 
 Bonjour! This was my first time in Europe, and Grenoble, with its mountain views in every direction, was the perfect setting. My high school French helped me get by—and the experience planted the seed for my passion for research.
