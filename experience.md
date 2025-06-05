@@ -4,6 +4,7 @@ layout: post-index
 ---
 
 <p> During my master’s at RIT, I took the opportunity to explore the tech industry through internships, gaining hands-on experience and insight into how companies function in the real world. Below are some highlights from the internships I’ve completed across a variety of organizations. </p>
+
 ## __Fluxdata,Inc.__
 Rochester, NY – Summer Internship
 
