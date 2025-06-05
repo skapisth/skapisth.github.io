@@ -4,7 +4,7 @@ layout: post-index
 ---
 
 <p> During my master’s at RIT, I took the opportunity to explore the tech industry through internships, gaining hands-on experience and insight into how companies function in the real world. Below are some highlights from the internships I’ve completed across a variety of organizations. </p>
-FluxData, Inc.
+## __Fluxdata,Inc.__
 Rochester, NY – Summer Internship
 
 Summer in Rochester is beautiful, and I made the most of it by biking 7 miles to work along the scenic Lehigh Valley Trail, the Erie Canal, and the Genesee River. This was my first experience working at a startup, and I loved the collaborative energy. I worked alongside other enthusiastic interns from RIT and the University of Rochester.
