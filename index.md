@@ -8,6 +8,11 @@ In parallel, I am also deeply interested in clinical applications of vision scie
 
 ## Timeline news
 
+ __March 2024:__ Recieved best poster award at the Center for Vision Science retreat.<br>
+ __Jan 2024:__ Recieved the Edward Peck Curtis award for excellence in teaching at the University of Rochester.<br>
+ __Dec 2023:__ Recieved VISTA BIPOC travel award to attend the vision conference in Toronto.<br>
+ __May 2023:__ Recieved Elsevier travel award to attend VSS, 2023, St. Pete Beach.<br>
+ __March 2023:__ Recieved the best Graduate research presentation award at the annual Graduate research symposium held by University of Rochester.<br>
  __May 2022:__ I am awarded the Meliora mentor fellowship for the second time.<br>
  __May 2022:__ Off to Florida to present at VSS, 2022.<br>
  __Aug 2021:__ Joining UR women in neuroscience as a student lead organizer.<br>
