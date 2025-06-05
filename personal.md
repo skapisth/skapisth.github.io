@@ -2,6 +2,7 @@
 title: Personal
 layout: post-index
 ---
+
 ## __Me!__
 Hi!! Outside lab, I am an outdoorsy person and I have a loving cat that loves walking on a leash and joins me on all my adventures. I Love hiking, swimming, biking and running. I have hiked to Mt. Everest Basecamp and I have done many olymic distance triathlons. I have my first Ironman 70.3 scheduled this August and I am super excited. I am also running the Belin Marathon to honor my grand ma who raised me. If you'd like to contribute to my fundraiser, please do so [__here__](https://www.justgiving.com/page/sanjana-kapisthalam-1?utm_campaign=lc_frp_share_transaction_transactional_--_donation_received_--_nth_donation&utm_content=6d4dd076-210e-4e78-bd9f-fc6ff1a6b940&utm_medium=email&utm_source=postoffice&utm_term=1749020374304). If you're reading this page and just want to reach out for an adventure buddy, don't hesitate to do so.
 
