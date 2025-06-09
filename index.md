@@ -4,7 +4,7 @@ layout: home
 
 I am a Ph.D. student in the Department of Brain and Cognitive Sciences at the University of Rochester, advised by Dr. Martina Poletti. My research focuses on understanding how the visual system allocates attention in the presence of multiple competing, high-salience stimuli. Specifically, I aim to answer the question: How do we selectively process the most relevant sensory information and efficiently allocate visual resources when faced with distracting salient items in the visual field?
 
-In parallel, I am also deeply interested in clinical applications of vision science—particularly in understanding visual processing deficits in individuals with schizophrenia. By examining fixational eye movements and attentional mechanisms, my work seeks to bridge fundamental research with translational outcomes.
+In parallel, I am also deeply interested in clinical applications of vision science—particularly in understanding visual processing deficits in individuals with schizophrenia. By examining fixational eye movements and attentional mechanisms, my work seeks to bridge fundamental research with translational outcomes.....
 
 ## Timeline news
 
